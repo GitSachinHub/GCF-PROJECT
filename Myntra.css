@@ -53,7 +53,18 @@
 .dropdown-content5:hover {
   border-bottom: 5px solid peachpuff;
 }
+.dropdown-content6:hover {
+  border-bottom: 5px solid rgb(10, 149, 255);
+}
 
+.dropdown-content7:hover {
+  border-bottom: 5px solid rgb(223, 89, 163);
+}
+
+.dropdown-content8:hover {
+  border-bottom: 5px solid rgb(0, 0, 0);
+}
+  
 .dropdown-menu {
   /* display: none;
           position: absolute;
